@@ -1,0 +1,2 @@
+Namen aller Kunden, welche noch kein Spiel gekauft haben.
+πName(Kunde − πKundenID,Name,Zahlungsmittel(Kunde ⊲⊳ kauft))
