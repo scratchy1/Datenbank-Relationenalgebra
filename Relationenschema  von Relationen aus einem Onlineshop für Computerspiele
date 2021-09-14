@@ -1,0 +1,3 @@
+Kunde (KundenID, Name, Zahlungsmittel)
+kauft (KundenID, Spielname, Datum)
+Spiel (Spielname, Preis)
