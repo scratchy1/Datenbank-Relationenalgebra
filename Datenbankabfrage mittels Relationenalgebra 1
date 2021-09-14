@@ -1,0 +1,6 @@
+Namen und Preise aller Spiele, welche mit dem Zahlungsmittel 3 Punkte
+
+"Kreditkarte“ bezahlt wurden.
+
+πSpielname,Preis(Spiel ⊲⊳ (
+kauft ⊲⊳ (σZahlungsmittel=′Kreditkarte′(Kunde))))
